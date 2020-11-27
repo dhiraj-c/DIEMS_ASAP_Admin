@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "922548562157",
+    "firebase_url": "https://diems-notices.firebaseio.com",
+    "project_id": "diems-notices",
+    "storage_bucket": "diems-notices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922548562157:android:0cbb005c1c66c2f19984e4",
+        "android_client_info": {
+          "package_name": "com.dietms.asapadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922548562157-oml3advueov3bb0epth7v6fma6hk0rlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWzBfIqe1VgPymSJrxNTb62bHUCdRsZ00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922548562157-oml3advueov3bb0epth7v6fma6hk0rlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922548562157:android:61342ac78d86e5419984e4",
+        "android_client_info": {
+          "package_name": "com.dietms.diemsasap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922548562157-oml3advueov3bb0epth7v6fma6hk0rlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWzBfIqe1VgPymSJrxNTb62bHUCdRsZ00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922548562157-oml3advueov3bb0epth7v6fma6hk0rlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

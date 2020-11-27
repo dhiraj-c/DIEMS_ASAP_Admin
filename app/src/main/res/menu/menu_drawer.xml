@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/board"
+        android:title="Board"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_action_more"
+        android:title="Main Menu"
+        app:showAsAction="always">
+
+        <menu>
+
+            <item
+                android:id="@+id/logOut"
+                android:icon="@drawable/ic_action_user"
+                android:title="@string/log_out" />
+        </menu>
+
+    </item>
+
+</menu>
